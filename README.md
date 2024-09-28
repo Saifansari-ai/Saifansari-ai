@@ -19,13 +19,3 @@
 * Calisthenics
 * Coding
 
-  #### You can also find me on: 
-
-[<img align="left" alt="entbappy | LinkedIn" width="30px" src="https://img.icons8.com/color/48/000000/linkedin.png" />][linkedin]
-[<img align="left" alt="entbappy | Twitter" width="30px" src="https://img.icons8.com/fluent/48/000000/twitter.png" />][twitter]
-<br>
-
-<hr>
-
-[linkedin]: 
-[twitter]: https://x.com/its__saif_
