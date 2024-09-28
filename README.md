@@ -28,4 +28,4 @@
 <hr>
 
 [linkedin]: 
-[twitter]: 
+[twitter]: https://x.com/its__saif_
