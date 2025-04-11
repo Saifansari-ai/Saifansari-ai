@@ -1,6 +1,6 @@
 # 👋 Hey, I'm [Mohd. Saif Ansari]
 
-Welcome to my GitHub! I'm a **BTech student from India**, a passionate **Data Science enthusiast**, and a driven individual on a mission to build a strong career in the **finance and banking industry** — one project, one dataset, and one breakthrough at a time.
+Welcome to my GitHub! I'm a **BTech student from India**, a passionate **Data Scientist**, and a driven individual on a mission to build a strong career in the **finance and banking industry** — one project, one dataset, and one breakthrough at a time.
 
 ---
 
