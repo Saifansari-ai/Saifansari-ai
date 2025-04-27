@@ -31,6 +31,7 @@ Data Scraping
 - 🔗 https://github.com/Saifansari-ai/eurousd_price_predictor
 - 🔗 https://github.com/Saifansari-ai/algo_from_scratch
 - 🔗 https://github.com/Saifansari-ai/ipl_2008_2022_sql
+- 🔗 https://github.com/Saifansari-ai/Credit_risk_modeling
 
 ---
 
