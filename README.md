@@ -1,50 +1,66 @@
-# 👋 Hey, I'm [Mohd. Saif Ansari]
+# ​ Hi, I'm Mohd. Saif Ansari  
 
-Welcome to my GitHub! I'm a **BTech student from India**, a **Data Scientist**, and a driven individual on a mission to build a strong career in the **finance and banking industry** — one project, one dataset, and one breakthrough at a time.
-
----
-
-## 🧠 About Me
-
-- 🎓 Currently pursuing BTech (3rd Year) with a focus on Data Science and Machine Learning.
-- 🧾 Self-driven learner focused on real-world applications of AI/ML in the **finance sector**.
-- 🔄 Actively working on **time series forecasting**, **stock price prediction**, and **economic data analysis**.
-- 🧪 Obsessed with building from **scratch** — including ML algorithms and custom pipelines.
-- 🧗 Growth mindset: Always learning, experimenting, and improving.
-- 💻 Linux user (Fedora 40) | Kaggle GPU user | VS Code fan | MLflow tracker | SQL learner
-- 💬 Fluent in Python, familiar with R, and always open to learning more.
+Welcome to my GitHub! 🚀  
+I'm a **Final Year BTech Student (India)** specializing in **Artificial Intelligence, Machine Learning, and Intelligent Agent Systems**.  
+My current passion lies in developing **Retrieval-Augmented Generation (RAG) AI Agents** and pushing into the frontier of **Agentic AI**—creating systems that think, act, and learn autonomously.
 
 ---
 
-## 💡 Highlight Skills
+## ​ About Me  
 
-- **Languages**: Python(scikit-learn, NumPy, SciPy, Pandas, pytorch, tenserflow, matplotlib, transformers), SQL.
-- **Technical**: Machine Learning (Classification, Regression, Feature Engineering), Deep Learning, Natural Language Processing, Data Visualization,
-Data Scraping
-- **Tools**:Linux, Vscode, pycharm, jupyter, git and github, google colab, kaggle notebook.
-- **Domains**: Time Series Forecasting, Finance, Data Analysis, NLP (in progress)
-
----
-
-## 📌 Featured Projects
-
-- 🔗 https://github.com/Saifansari-ai/eurousd_price_predictor
-- 🔗 https://github.com/Saifansari-ai/algo_from_scratch
-- 🔗 https://github.com/Saifansari-ai/ipl_2008_2022_sql
-- 🔗 https://github.com/Saifansari-ai/Credit_risk_modeling
+- 🎓 Final Year **BTech Student in Data Science & Machine Learning**  
+- 🤖 Deeply focused on **RAG AI Agents** and **Agentic AI development**  
+- 🛠️ Building **LLM-powered pipelines**, custom ML solutions, and AI agents from scratch  
+- 💻 Tech Setup: **Fedora Linux**, **VS Code**, **Kaggle GPU**, **MLflow**, **SQL**  
+-  Always exploring: **AI agent frameworks** (LangChain, LlamaIndex), **LLMOps**, and advanced model integration
 
 ---
 
-## 🧭 Let's Connect!
+## ​ Skills & Tech Stack  
 
-I believe in sharing knowledge, helping others grow, and building a strong community of learners.
+**Languages & Libraries**  
+- Python (`scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `PyTorch`, `TensorFlow`, `Transformers`)  
+- SQL  
 
-- 💼 [LinkedIn](https://www.linkedin.com/in/saif-ansari-a976622b3)
-- 📬 Open to collaborations, internships, and freelance work in data science and finance!
+**AI & ML Expertise**  
+- Retrieval-Augmented Generation (RAG) methodologies  
+- Agentic AI systems (AI agents capable of autonomous reasoning & actions)  
+- Machine Learning: Classification, Regression, Feature Engineering  
+- Deep Learning: Neural Networks, Time Series, Natural Language Processing (NLP)  
+- Data Analysis & Visualization  
+
+**Tools & Platforms**  
+- Linux (Fedora), Jupyter, VS Code, PyCharm  
+- Git & GitHub, Kaggle, Google Colab  
+- MLflow (experiment tracking), Conda/venv environments
 
 ---
 
-**“Don’t wait for opportunity. Create it.”**
+##  Featured Projects  
 
-Thanks for stopping by!  
-Feel free to check out my pinned projects below 👇
+- **AI Agent / RAG Projects**  
+  - [Local_pdf_RAG](https://github.com/Saifansari-ai/Local_pdf_RAG) – A RAG system that answers queries over local PDF documents using the Gemma 3 LLM running locally :contentReference[oaicite:0]{index=0}.  
+  - [RAG AI Projects] – Build-your-own RAG pipelines and agentic AI workflows (exemplary implementations).
+
+- **ML & MLOps Foundations**  
+  - [vehicle_insurance](https://github.com/Saifansari-ai/vehicle_insurance) – End-to-end MLOps project for vehicle insurance prediction on AWS :contentReference[oaicite:1]{index=1}.  
+  - [Algorithms from Scratch](https://github.com/Saifansari-ai/algo_from_scratch) – Core ML algorithms implemented without external libraries.  
+  - [Credit Risk Modeling](https://github.com/Saifansari-ai/Credit_risk_modeling) – A full pipeline for credit default risk prediction.  
+  - [EUR/USD Price Prediction](https://github.com/Saifansari-ai/eurousd_price_predictor) – Time series forecasting for FX based on ML techniques.  
+  - [IPL SQL Analysis (2008–2022)](https://github.com/Saifansari-ai/ipl_2008_2022_sql) – Sports analytics using SQL queries on IPL data.
+
+---
+
+##  Let’s Connect  
+
+I’m always up for collaborating on **AI agents**, **open-source initiatives**, and **ML research**.
+
+-  [LinkedIn](https://www.linkedin.com/in/saif-ansari-a976622b3)  
+-  Open to internships, projects, and research opportunities in **AI/ML**
+
+---
+
+>  “Don’t wait for opportunity. Create it.”
+
+Thanks for visiting!  
+Feel free to explore my pinned projects below 👇
