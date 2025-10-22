@@ -1,18 +1,12 @@
 # ​ Hi, I'm Mohd. Saif Ansari  
 
-Welcome to my GitHub! 🚀  
-I'm a **Final Year BTech Student (India)** specializing in **Artificial Intelligence, Machine Learning, and Intelligent Agent Systems**.  
-My current passion lies in developing **Retrieval-Augmented Generation (RAG) AI Agents** and pushing into the frontier of **Agentic AI**—creating systems that think, act, and learn autonomously.
+My current passion lies in developing **AI systems** and pushing into the frontier of **Agentic AI**—creating systems that think, act, and learn autonomously.
 
 ---
 
 ## ​ About Me  
-
-- 🎓 Final Year **BTech Student in Data Science & Machine Learning**  
-- 🤖 Deeply focused on **RAG AI Agents** and **Agentic AI development**  
-- 🛠️ Building **LLM-powered pipelines**, custom ML solutions, and AI agents from scratch  
-- 💻 Tech Setup: **Fedora Linux**, **VS Code**, **Kaggle GPU**, **MLflow**, **SQL**  
--  Always exploring: **AI agent frameworks** (LangChain, LlamaIndex), **LLMOps**, and advanced model integration
+- 🤖 Deeply focused on **Agentic AI development**  
+- 🛠️ Building **LLM-powered pipelines**, custom ML solutions, and AI agents from scratch
 
 ---
 
@@ -23,16 +17,11 @@ My current passion lies in developing **Retrieval-Augmented Generation (RAG) AI 
 - SQL  
 
 **AI & ML Expertise**  
-- Retrieval-Augmented Generation (RAG) methodologies  
 - Agentic AI systems (AI agents capable of autonomous reasoning & actions)  
-- Machine Learning: Classification, Regression, Feature Engineering  
-- Deep Learning: Neural Networks, Time Series, Natural Language Processing (NLP)  
-- Data Analysis & Visualization  
 
 **Tools & Platforms**  
-- Linux (Fedora), Jupyter, VS Code, PyCharm  
-- Git & GitHub, Kaggle, Google Colab  
-- MLflow (experiment tracking), Conda/venv environments
+- Linux (Fedora), Jupyter, VS Code
+- Git & GitHub
 
 ---
 
