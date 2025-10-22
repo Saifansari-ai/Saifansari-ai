@@ -42,14 +42,4 @@ My current passion lies in developing **AI systems** and pushing into the fronti
 
 ##  Let’s Connect  
 
-I’m always up for collaborating on **AI agents**, **open-source initiatives**, and **ML research**.
-
--  [LinkedIn](https://www.linkedin.com/in/saif-ansari-a976622b3)  
--  Open to internships, projects, and research opportunities in **AI/ML**
-
----
-
->  “Don’t wait for opportunity. Create it.”
-
-Thanks for visiting!  
-Feel free to explore my pinned projects below 👇
+I’m always up for collaborating on **AI agents**, **open-source initiatives**.
