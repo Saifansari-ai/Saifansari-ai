@@ -13,7 +13,7 @@ My current passion lies in developing **AI systems** and pushing into the fronti
 ## ​ Skills & Tech Stack  
 
 **Languages & Libraries**  
-- Python (`scikit-learn`, `NumPy`, `Pandas`, `Matplotlib`, `PyTorch`, `TensorFlow`, `Transformers`)  
+- Python
 - SQL  
 
 **AI & ML Expertise**  
